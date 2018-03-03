@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SuperObrazekkk"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SuperObrazekkk">
+				<Option output="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/SuperObrazekkk.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 SuperObrazekkk"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SuperObrazekkk/fast">
+				<Option output="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/SuperObrazekkk.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 SuperObrazekkk/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/Obrazek.c">
+			<Option target="SuperObrazekkk"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/Obrazek.h">
+			<Option target="SuperObrazekkk"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/Piksel.c">
+			<Option target="SuperObrazekkk"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/Piksel.h">
+			<Option target="SuperObrazekkk"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/Rgb.c">
+			<Option target="SuperObrazekkk"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/Rgb.h">
+			<Option target="SuperObrazekkk"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/TypObrazka.c">
+			<Option target="SuperObrazekkk"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/TypObrazka.h">
+			<Option target="SuperObrazekkk"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/Wyswietl.c">
+			<Option target="SuperObrazekkk"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/Wyswietl.h">
+			<Option target="SuperObrazekkk"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/main.c">
+			<Option target="SuperObrazekkk"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/proc.c">
+			<Option target="SuperObrazekkk"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/proc.h">
+			<Option target="SuperObrazekkk"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/wojci/CLionProjects/SuperObrazekkk/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
